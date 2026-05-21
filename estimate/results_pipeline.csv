@@ -1,0 +1,344 @@
+image,stage1_classes,stage2_used,stage2_classes,time_ms
+video-20_frame_105_jpg.rf.91eea262afe1fb97bda820198ad183fe.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",25.4
+video-20_frame_120_jpg.rf.e0766ddd0b4dfd75cbfbec2f4bd7d4cc.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.97
+video-20_frame_135_jpg.rf.ae45ac3aa581198b207bbfb1688b7844.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_normal",24.8
+video-20_frame_150_jpg.rf.bec7d76fadc28d127167424256df973e.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage",24.77
+video-20_frame_165_jpg.rf.24b4fb2f8f0e7a1e4003d02a3271eb66.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.72
+video-20_frame_180_jpg.rf.c7204f30f8a6a49b687257eaa675d998.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage",24.67
+video-20_frame_405_jpg.rf.8ca040dfd10c4363cc9d9805588af13e.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.67
+video-20_frame_420_jpg.rf.6d06355897dae863dc03f5e9ea582610.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",27.25
+video-20_frame_435_jpg.rf.4c57aa351f2ce86b991b7edabac21eee.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.85
+video-20_frame_450_jpg.rf.1072d7438b7fa70ef8ed7b85e6c793f2.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.93
+video-20_frame_75_jpg.rf.df68e7cc92140b0206ef558cc384a875.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",23.76
+video-20_frame_90_jpg.rf.9f9ee2b5562914f146e36278fecefa34.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.77
+video-21_frame_10110_jpg.rf.cfd77dbb29ab87dbd66ee0d14aabbe85.jpg,background,FALSE,background,4.35
+video-21_frame_10140_jpg.rf.33940e3eaf93a317ba07a7385fe6b44b.jpg,background,FALSE,background,4.35
+video-21_frame_10155_jpg.rf.e98eb43e40e2cd554b6ee26ff6385890.jpg,background,FALSE,background,4.34
+video-21_frame_10170_jpg.rf.847dd8b31d65294b4794c4fa265833bb.jpg,background,FALSE,background,4.34
+video-21_frame_10185_jpg.rf.ffdf34ba07c46b3458452ff9d1199f82.jpg,background,FALSE,background,4.32
+video-21_frame_10200_jpg.rf.784dfb7ba70ba88e7fd0a60fba24794c.jpg,background,FALSE,background,4.34
+video-21_frame_10215_jpg.rf.717034d703f1e272395fb98b10a23307.jpg,background,FALSE,background,4.32
+video-21_frame_10515_jpg.rf.cce31c04e6d2a1e992b647b6f6dc7445.jpg,background,FALSE,background,4.35
+video-21_frame_10530_jpg.rf.bd6fc14aca80b7fb05476f996c98dc20.jpg,background,FALSE,background,4.34
+video-21_frame_10560_jpg.rf.6ff8e04286ddd3728c11ac75550810a9.jpg,background,FALSE,background,4.33
+video-21_frame_10590_jpg.rf.5e982e1b9e95f91ce0ad0abc20392e8c.jpg,background,FALSE,background,4.32
+video-21_frame_105_jpg.rf.a92b6e2da321f52059b76adbc7de685c.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_normal, label_damage, label_damage, label_damage, label_damage",23.89
+video-21_frame_10605_jpg.rf.94c6ca198f95bff1152d2c5796b5c4f2.jpg,background,FALSE,background,4.33
+video-21_frame_10635_jpg.rf.321802c08827c5462e99875f72a57fe2.jpg,background,FALSE,background,4.33
+video-21_frame_11010_jpg.rf.0f750188c17f27affb3c81a1cd527cc7.jpg,background,FALSE,background,4.33
+video-21_frame_11025_jpg.rf.884f445d52fcfebd851d720055c5d2f4.jpg,background,FALSE,background,4.32
+video-21_frame_11040_jpg.rf.6335fd9f49031737a7f0118eba8ed0d4.jpg,background,FALSE,background,4.35
+video-21_frame_11385_jpg.rf.a98bdfca2f1938b2e3c184c8c9e2e4d0.jpg,background,FALSE,background,4.32
+video-21_frame_11400_jpg.rf.567b89b98aea810598185be1291f2071.jpg,background,FALSE,background,4.33
+video-21_frame_11430_jpg.rf.0d1a8cd881e8bba98914658b8cfaf36e.jpg,background,FALSE,background,4.33
+video-21_frame_11475_jpg.rf.8d92ea7d3d8d60c67df496e27bb41490.jpg,background,FALSE,background,4.32
+video-21_frame_120_jpg.rf.20ced6bfe67e0fdc8094fb0c89cc2238.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.87
+video-21_frame_165_jpg.rf.c70fb33d912d3446c6bc9940fb7e9c9b.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.9
+video-21_frame_180_jpg.rf.68ac20d656ab4c184effcbaae1a34d4f.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",23.92
+video-21_frame_195_jpg.rf.6813a484cba962edb241dcc99bbe1a84.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.02
+video-21_frame_210_jpg.rf.56f7fdeb69d6ea39c69ab509c379e131.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.94
+video-21_frame_225_jpg.rf.57164a7dcd70a320bdda87316763fe03.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.92
+video-21_frame_240_jpg.rf.d33e376f4dc3d997246895c4ad66f44f.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",23.96
+video-21_frame_255_jpg.rf.3e2baa75703eefd4aa7a2cde14ffddf9.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.78
+video-21_frame_270_jpg.rf.f811095557e5e07fd7f2cc1ed14e887f.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.95
+video-21_frame_285_jpg.rf.445f4f3dd8fba67080d7f6ac05caa2c9.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.93
+video-21_frame_300_jpg.rf.b207ad85b67d01ebfd3c941190087341.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.81
+video-21_frame_30_jpg.rf.78f3231884c0214580020ef9bb19bcb9.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.82
+video-21_frame_315_jpg.rf.f3439e5b2e7ad289fdffe7d1262440ff.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.8
+video-21_frame_330_jpg.rf.4be2f20c04acf4bbc4bd676dcacaac6c.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.93
+video-21_frame_345_jpg.rf.ba4661819209362376f858ea3fd15c1e.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.89
+video-21_frame_360_jpg.rf.a65c1139771f0d09291766309ef178d1.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.85
+video-21_frame_375_jpg.rf.d12008d9545ed76b67ea79e4274011c1.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.83
+video-21_frame_390_jpg.rf.4e120c4ba6ab65c4291bf8e56c71ba1d.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",23.87
+video-21_frame_405_jpg.rf.01956155d6f978874b5b53d35a26a6f1.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",28.86
+video-21_frame_420_jpg.rf.09f5247b32a3ebe1ca747e59a282592f.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",25.02
+video-21_frame_435_jpg.rf.af932597fb7f580b108ef33a3f33ac26.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.82
+video-21_frame_450_jpg.rf.6d962173994841571c129964e344bfdf.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.75
+video-21_frame_45_jpg.rf.4d6405fdf1ec69fa1f9e5bdae0661279.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.73
+video-21_frame_465_jpg.rf.5bfb8030bc872b4cb60a9b34dbc340fd.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.67
+video-21_frame_4785_jpg.rf.e89f82c643fa3762df7f8e1d18ace4cb.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.61
+video-21_frame_4800_jpg.rf.1dba5013e71eff393bb585949e093b34.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.71
+video-21_frame_480_jpg.rf.56738d1b79bdd93820391d59faa22be3.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage",24.79
+video-21_frame_4815_jpg.rf.ef02296f99f1b42b70add124779bc23c.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.75
+video-21_frame_4845_jpg.rf.b843e45195769369d8aef504e1852553.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.6
+video-21_frame_4860_jpg.rf.bf400423e2438dbd606fc58ec178e77c.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.7
+video-21_frame_4875_jpg.rf.2c337e23d9231b6f4b4b8c3d208169e5.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.57
+video-21_frame_4935_jpg.rf.e110a37cba9efd6cca7c791341c112eb.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.74
+video-21_frame_4950_jpg.rf.a6fd73a6a420fc2fc25a2adb5a8f5aa1.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",25.74
+video-21_frame_495_jpg.rf.8469594f9e5cf4444a72c8e9ae076d0e.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage",24.73
+video-21_frame_4965_jpg.rf.84691f21c6a532eec1ea0af468190a6d.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.8
+video-21_frame_4980_jpg.rf.469b5464c57f266d34f772e02048608b.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.83
+video-21_frame_510_jpg.rf.bd7b7d6e0031547a2b930d239faa1e7b.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage",24.74
+video-21_frame_525_jpg.rf.a863c421274fd31993597a6af8876564.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.68
+video-21_frame_60_jpg.rf.e99456bd576cb813973f901ec5497878.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.78
+video-21_frame_630_jpg.rf.47a978c67f86ffda636af64ce1fbed26.jpg,label_normal,FALSE,background,4.99
+video-21_frame_645_jpg.rf.9f34341fe77697677a12aab642828606.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.62
+video-21_frame_660_jpg.rf.91a2f08a3c5aeef545fc4810c24ae111.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.5
+video-21_frame_675_jpg.rf.4aab5647b086d4a85083775b6ca0bc0d.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage",24.12
+video-21_frame_720_jpg.rf.6e0df5c046978ffeb094150c638d51c6.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",27.11
+video-21_frame_735_jpg.rf.86332b0a5c4783d3a506ab9f191c37eb.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.93
+video-21_frame_90_jpg.rf.e8941b8058c4992e4c02f81731d37419.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.19
+video-22_frame_10530_jpg.rf.21f841269f4ab944ab6b983e3c06283b.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.17
+video-22_frame_10545_jpg.rf.45167c537ce02a745ecd34a10f318364.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.04
+video-22_frame_10560_jpg.rf.3ac6aae2e97a3a908a3b7aa6a9676b39.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.15
+video-22_frame_10575_jpg.rf.c2790925438012632261e564682ce751.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.2
+video-22_frame_10590_jpg.rf.107017e2bb812974df4881c4d77c33bd.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.19
+video-22_frame_10785_jpg.rf.e6393656485b7e67503186f9bb2676f5.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.11
+video-22_frame_10800_jpg.rf.08b508127abeba196bfeb7f7a82eabfb.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.15
+video-22_frame_10830_jpg.rf.9d7fd588e4855c7a705a998bab054e91.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.01
+video-22_frame_10845_jpg.rf.05286f14c3d7bc29c1c8b82b5fd6f7d3.jpg,"label_normal, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.05
+video-22_frame_12120_jpg.rf.e205e024ccfb8bddbf7554de6274dce7.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.3
+video-22_frame_12135_jpg.rf.df10696331946f318f955206e21d7603.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.22
+video-22_frame_12150_jpg.rf.4d593ef836e718dcbde50199b4ac7dc3.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",30.45
+video-22_frame_12165_jpg.rf.1a56866295b892ae13f308394e968e96.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.3
+video-22_frame_12255_jpg.rf.e89100914709db3343aedea230b23a68.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.18
+video-22_frame_12270_jpg.rf.04cb86ec42091a40ac335708beacfce3.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.27
+video-22_frame_12285_jpg.rf.9dfd6be03f926ab4cd482e8eeb2e29df.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.44
+video-22_frame_12300_jpg.rf.9d6b2007cb9314485d6d36f977b85802.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.31
+video-22_frame_12315_jpg.rf.aa2e0fc662c309932f505673d5af08e6.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.36
+video-22_frame_12330_jpg.rf.890f932a0e5c1c51f546c8dcd160e393.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.35
+video-22_frame_32565_jpg.rf.567558613294a6709e1dbb8196740624.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.35
+video-22_frame_32580_jpg.rf.9d25693b15eafca77e700f853540b4bf.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.18
+video-22_frame_32640_jpg.rf.cd39ce03b6ca636e996346d4f14809ad.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.31
+video-22_frame_32655_jpg.rf.7b14918395ab09e5d413668426c1d1b2.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.19
+video-22_frame_32670_jpg.rf.40e055f61c478a6179788ba596a488f8.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.22
+video-22_frame_32715_jpg.rf.34d2986e011a7c6c022a1e0964e614d9.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.18
+video-22_frame_32730_jpg.rf.dcc99d89a8c83aed4f808886342bad78.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.19
+video-23_frame_11715_jpg.rf.4a4810125b2777d4412b9d305a2d774a.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.03
+video-23_frame_11730_jpg.rf.a064d383bf1d8b58d3a9066b43e0a0f5.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.06
+video-23_frame_11745_jpg.rf.0ede78fa39433b5abfdc8e8fbacd1d6b.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.04
+video-23_frame_11760_jpg.rf.11d7e47afac00adea2562b0170879e76.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.09
+video-23_frame_11775_jpg.rf.26059c51a7ed7641d5fe7001e29757fa.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.08
+video-23_frame_11790_jpg.rf.f5257ffbbc6da07eeb6a2cd0d3b5f0f3.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage",23.99
+video-23_frame_11805_jpg.rf.029e58df1b580762e2fe367e21a2084c.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage",24.02
+video-23_frame_11820_jpg.rf.aa0a5bc944600696f5e6ddfdbdd4f7ad.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage",24.1
+video-23_frame_11835_jpg.rf.d2bfa22f6e8e3328d46d077712db627a.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage",24.04
+video-23_frame_11970_jpg.rf.9b5230b833187fa4b32e957f0249203c.jpg,label_normal,FALSE,background,4.8
+video-23_frame_11985_jpg.rf.7ceaca3aa2230443026af987899516fa.jpg,"label_normal, label_damage",TRUE,"label_normal, label_damage",24
+video-23_frame_12000_jpg.rf.8e1572e55f0745d6c2a966f188e8dc9f.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.08
+video-23_frame_12015_jpg.rf.a242bea7907b6bdb2ceac00895be2fbd.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.01
+video-23_frame_12030_jpg.rf.811c5b07601e39fd12945e9fcc8ab8d5.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",23.99
+video-23_frame_12045_jpg.rf.7f6cbe6f8569015f2c06cba2ab7d16a0.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",25.97
+video-23_frame_12060_jpg.rf.2cd20fb15a9abd4f1d59109b792092ed.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.27
+video-23_frame_12075_jpg.rf.30fa623479adb1da72a20627befc0136.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.21
+video-24_frame_27435_jpg.rf.3201730fc353937300142e86e8d9bf77.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.27
+video-24_frame_27450_jpg.rf.ba50e789120d2102e96a69f3bd877ace.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.2
+video-24_frame_27465_jpg.rf.62dffef796933ccfa7dcee3b10d4b4fb.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.22
+video-24_frame_27480_jpg.rf.6ff2c7c98a3e4d61631b9b7b65d103b7.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.16
+video-24_frame_27495_jpg.rf.a23f45d9ede3ba01f65f50425f975293.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.15
+video-24_frame_27510_jpg.rf.f41d78357c1af2f96f48ef678e7ad586.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.17
+video-24_frame_27525_jpg.rf.0b5bf053a5859128d8e0d95af7da3703.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.25
+video-24_frame_27540_jpg.rf.727dd26cd995e7a07d62393709da2efd.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.1
+video-24_frame_27555_jpg.rf.44dd42253f14a031de33a564c000cca1.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",25.48
+video-24_frame_27570_jpg.rf.ca14e1ead68a662d456ce8d867fda7d2.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",24.15
+video-24_frame_27585_jpg.rf.d273ee270f976d19d2210ad40b21a7f6.jpg,"label_normal, label_damage, label_damage, label_damage, label_normal, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",27.14
+video-25_frame_22845_jpg.rf.71cffbdd3b018b25f958a9f88b70bd8a.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.12
+video-25_frame_22860_jpg.rf.925001446331faa6360e9cab7581cad9.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",26.44
+video-25_frame_22875_jpg.rf.e120854816f163d8cd4a69fb242074a0.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.93
+video-25_frame_22890_jpg.rf.9cfea4949385ff82e04637a789a995e1.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.83
+video-25_frame_22905_jpg.rf.2b5c4747ae359f5a0ff321542efbc74b.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.92
+video-25_frame_22920_jpg.rf.e932707da0daf228f716a146b6665bed.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.75
+video-25_frame_22935_jpg.rf.4ca0c9bb7619fd8b23134d7e0532dd12.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.82
+video-25_frame_22950_jpg.rf.799f6fdf732da89d09d3598a693e8e88.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",27.02
+video-25_frame_22965_jpg.rf.b2fc1220df7d134d8e115e2996475245.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",27.55
+video-25_frame_22980_jpg.rf.bd20d4ac5ee0261b2b65785fc7eb6207.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",23.82
+video-25_frame_22995_jpg.rf.2873aba903dc00337c521731340d22df.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",23.79
+video-25_frame_23010_jpg.rf.7ff3295ea1f63202a2435f1f6daf698c.jpg,"label_normal, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage",24.06
+video-25_frame_4710_jpg.rf.a2a7f1552a5a06c83aa035dc4cd7fd93.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",27
+video-25_frame_4725_jpg.rf.96c49b0f9e300c79d4ea711e08092b6b.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.91
+video-25_frame_4740_jpg.rf.62ab8aa7925e47902e5defafab31cc0c.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.9
+video-25_frame_4755_jpg.rf.54c0741fd326967a4e560831c23edc70.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24
+video-25_frame_4770_jpg.rf.172b652fa362e40b83f9a45014816372.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.79
+video-26_frame_0_jpg.rf.ad9b89f628472ec4395664962626ac56.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.05
+video-26_frame_105_jpg.rf.3e2e384485b22632e6a5b9fd23a118ff.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.03
+video-26_frame_120_jpg.rf.d9b00ea8710bf79e4f63a34893d4e477.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24
+video-26_frame_135_jpg.rf.5db3ca47f5ea7440ff9dc2fcc1fcc914.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",26.68
+video-26_frame_15_jpg.rf.26c5e081713013863baba5931bc540b0.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.17
+video-26_frame_240_jpg.rf.b2d91e3857d4925c6edee3f3b2fc40c6.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.95
+video-26_frame_255_jpg.rf.14fbb6ff771717bd81a008aeec328666.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.07
+video-26_frame_2670_jpg.rf.9a252b32df52cec101df5d167c441486.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.09
+video-26_frame_2700_jpg.rf.2b9e6a9efd65d1044aab79685ec22055.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.1
+video-26_frame_270_jpg.rf.e7ae96e42c5fac617fc49e6a2bb06242.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.21
+video-26_frame_2790_jpg.rf.bda9c14b1f1037ba738c08833d4402a4.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.92
+video-26_frame_2805_jpg.rf.2f7efc02152fbccb2bb49d27e9f2facc.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.12
+video-26_frame_2835_jpg.rf.60800ecd881e047d0e03156346ab4147.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.02
+video-26_frame_2850_jpg.rf.de465a915e4bb416974c88259b9ad07b.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24
+video-26_frame_285_jpg.rf.21eedfc88a116ea38fe12d3042ff744c.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.76
+video-26_frame_2865_jpg.rf.ac239157305daa25a6d80a57fdf41837.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.99
+video-26_frame_2925_jpg.rf.641934bb2fd8e5aa96addd018e6cbec8.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",26.69
+video-26_frame_2955_jpg.rf.c9b8cf8ab61fde62b3ebb5729a0579f0.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.05
+video-26_frame_2970_jpg.rf.38380364ea429d7e8377006700722101.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.04
+video-26_frame_300_jpg.rf.6aa47418f934ee40c365d03aed56974c.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",25.1
+video-26_frame_30_jpg.rf.b64aea892277a0e6c1110f9d9e778faf.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.98
+video-26_frame_330_jpg.rf.364cbbf47cbcceac761582c4866dbeae.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.02
+video-26_frame_45_jpg.rf.10837eca31b83df33dd21f8760e99982.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.04
+video-26_frame_4680_jpg.rf.f9788c9d4fb2dc0a126d50d418d7afc1.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",23.88
+video-26_frame_4695_jpg.rf.6f7f5f1ce8805d9af9ebfa99bd491799.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.14
+video-26_frame_4710_jpg.rf.5704d2e4ccbda0ae86e29f7460dcb745.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.08
+video-26_frame_4725_jpg.rf.8793532608debd692d1889d92c5d9381.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.02
+video-26_frame_4740_jpg.rf.bfe1d77c2e5d3aeac8c04340c721f0a4.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",31.81
+video-26_frame_4755_jpg.rf.cf53c22924fab3083371ef48b4fc7ef4.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.06
+video-26_frame_4770_jpg.rf.224b664348ffb3e19decaf7d2aae17cf.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.02
+video-26_frame_4860_jpg.rf.366848c914bbcee77bd1fdf00830ba69.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",27.82
+video-26_frame_5205_jpg.rf.6f2cbffff8452afa950a5978f35e0f76.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.98
+video-26_frame_5220_jpg.rf.c011cd30c253a5758a643f26bdf0147e.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.86
+video-26_frame_5235_jpg.rf.deb972ea78c225e8381330c3697f9153.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.94
+video-26_frame_5250_jpg.rf.f1c43f6a900519040b57a80c1d12afa6.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24.54
+video-26_frame_5265_jpg.rf.feed2877fa70aa0f9e21631fd805a682.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.89
+video-26_frame_5280_jpg.rf.5fbf1b8db126f4f9f5f8d1b6d0e237bf.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.84
+video-26_frame_5295_jpg.rf.4818aa0dfe559e9bdb43441e1b92485c.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",25.53
+video-26_frame_5310_jpg.rf.c074daa66c99d9e65b8660fe98528f15.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.95
+video-26_frame_5370_jpg.rf.e51d7bfcfe06d410924e14a86b27edda.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",24
+video-26_frame_5385_jpg.rf.35497d6ea35ce9e7d7eb9541a6b352f9.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.95
+video-26_frame_5400_jpg.rf.48f550656c8f4b4b3c66ca513a8bf7fd.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.99
+video-26_frame_5415_jpg.rf.ac022f8873db2d6651ee14f4f3ff07ff.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage",23.91
+video-26_frame_60_jpg.rf.ac62f5bfefac4e81205df3a72e2a05f9.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.05
+video-26_frame_690_jpg.rf.67c9aff42d53686953f3838942ae0e11.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.1
+video-26_frame_705_jpg.rf.8c36a4c438fd26065f306da419b16c29.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",23.98
+video-26_frame_720_jpg.rf.3f5c283b25ca4a06c0b8ae6549f3617e.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.92
+video-26_frame_75_jpg.rf.1dd44eec7bd12c89bf9e4ea297a824b1.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.98
+video-26_frame_795_jpg.rf.dbba10ae2e0a3cb5ee078d638109baa0.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.93
+video-26_frame_810_jpg.rf.2f9becc6908beacd62012cc1f933a14e.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.01
+video-26_frame_825_jpg.rf.8d66dd6ee63d98d63349fe280ec3a412.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",28
+video-26_frame_855_jpg.rf.8389e972b2c851995e8012f7479b1edb.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24
+video-26_frame_870_jpg.rf.f78c435bbd96233598089e5769c4c343.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.01
+video-26_frame_885_jpg.rf.ced3671e9230874a53c256b747221335.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",23.93
+video-26_frame_90_jpg.rf.742d0e94e3c05471148bbc0884db4e4e.jpg,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",TRUE,"label_normal, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage, label_damage",24.04
+video-2_frame_1005_jpg.rf.9b8be16ef1d80c8b7a38448d57186205.jpg,label_normal,FALSE,background,4.74
+video-2_frame_1020_jpg.rf.c2bdf9225570b380dea5fdb5af4315e6.jpg,label_normal,FALSE,background,4.75
+video-2_frame_1050_jpg.rf.b268d8049d6e85053e6a78ffde073c59.jpg,label_normal,FALSE,background,4.72
+video-2_frame_1065_jpg.rf.7cacda4efa81857f1ec32e9831862a0b.jpg,label_normal,FALSE,background,4.74
+video-2_frame_1080_jpg.rf.b8f1e7a3d7ebaeb9427e67d37e431570.jpg,label_normal,FALSE,background,4.74
+video-2_frame_5025_jpg.rf.6e751275ebc0f89599603e27ec8a073f.jpg,label_normal,FALSE,background,4.71
+video-2_frame_5040_jpg.rf.dc6356be2b2e61cc9f53ad955929c7ce.jpg,label_normal,FALSE,background,4.72
+video-2_frame_5055_jpg.rf.ee7d187506d11a3b65ea597fe4c67988.jpg,label_normal,FALSE,background,4.71
+video-2_frame_5070_jpg.rf.cee989eb72670f721e36e38966442763.jpg,label_normal,FALSE,background,4.81
+video-2_frame_5685_jpg.rf.bfd9c6891458fe5bd44022f9497679dd.jpg,label_normal,FALSE,background,4.75
+video-2_frame_5700_jpg.rf.7f62e04d9f7df17c31f4631aa79aaefc.jpg,label_normal,FALSE,background,4.73
+video-2_frame_570_jpg.rf.5f835ad5e3577509b44f01461b7fa8eb.jpg,label_normal,FALSE,background,4.72
+video-2_frame_5715_jpg.rf.e04405900f5b83e429c8f1dae8ba65cf.jpg,label_normal,FALSE,background,4.7
+video-2_frame_5730_jpg.rf.c1a9db65d73a4b2fea0602b57bc92bc4.jpg,label_normal,FALSE,background,4.72
+video-2_frame_5745_jpg.rf.d936d2937729b172f7c0a6841d5e61fc.jpg,label_normal,FALSE,background,4.72
+video-2_frame_5760_jpg.rf.01712a032c385a944271a7d5dae8db76.jpg,label_normal,FALSE,background,4.7
+video-2_frame_5775_jpg.rf.e82af6458ba244ddbd9087d8f171453e.jpg,label_normal,FALSE,background,4.71
+video-2_frame_5790_jpg.rf.b016c175f16fb7a41c31f258b6089c59.jpg,label_normal,FALSE,background,4.72
+video-2_frame_5805_jpg.rf.17eec666a98cdd214a1732992fd668aa.jpg,label_normal,FALSE,background,4.74
+video-2_frame_5820_jpg.rf.173bcc482b1d0461308dacf464308bbb.jpg,label_normal,FALSE,background,4.72
+video-2_frame_5835_jpg.rf.01f10e4153b02283343c1dfbacc3949c.jpg,label_normal,FALSE,background,4.71
+video-2_frame_5850_jpg.rf.5f8b3343b4b9d87077b1cdf5030e2972.jpg,label_normal,FALSE,background,4.71
+video-2_frame_585_jpg.rf.38813d89259dffc707ca470327f09694.jpg,label_normal,FALSE,background,4.74
+video-2_frame_5865_jpg.rf.0442c8e6d16ba0fc687e187b32f69af7.jpg,label_normal,FALSE,background,4.71
+video-2_frame_5880_jpg.rf.c338474f9675aada788c89cf51e1353d.jpg,label_normal,FALSE,background,4.74
+video-2_frame_5895_jpg.rf.2ce40f0cc5eb8203dbe6e6ae9e1f411a.jpg,label_normal,FALSE,background,4.74
+video-2_frame_600_jpg.rf.941de5559e29a0394e96c70b6de36a1a.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6015_jpg.rf.ed8386fca7dde8fc187d3618a9fd027a.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6030_jpg.rf.574a7f6bd0a634aaa403ae6e58be2447.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6045_jpg.rf.1d741e45e5ffdca2beafc77898c9af24.jpg,label_normal,FALSE,background,4.76
+video-2_frame_6060_jpg.rf.2ac27d1e103d37e6dbe4e0a8ce03fe90.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6075_jpg.rf.806bbb58464e9053d62c9d025eea24b1.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6090_jpg.rf.2c9a85c60b784a3358a8d38ffbc06526.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6105_jpg.rf.0d8b327dc2a950aece296a69ceb46eeb.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6120_jpg.rf.7876b0c33031ab9d7491687a57106d46.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6135_jpg.rf.0f51269c1884fcca1191f95bf0adbb91.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6150_jpg.rf.a046c59520a09ef3b261e9c3dd1a3620.jpg,label_normal,FALSE,background,4.75
+video-2_frame_615_jpg.rf.9717cc7f7526a53e97c129a3fc6c05fe.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6165_jpg.rf.f6a862f38c7dba9f66ebad3a9fd43f79.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6180_jpg.rf.46576d66ca806c984d9c9f5bd034f192.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6195_jpg.rf.964de4e5aef296cd3244b1d52b0d98b2.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6210_jpg.rf.0f3d15827a5f4b1242adbe13168802ed.jpg,label_normal,FALSE,background,4.77
+video-2_frame_6225_jpg.rf.97b66cf9ebfcf110a651b5eecc3d7e3b.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6240_jpg.rf.e524d730428b41c2b8a0d08cc0076973.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6255_jpg.rf.b591ac13354e5665b3719382552a7b74.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6270_jpg.rf.4dc1ca60152b50eabaa5e53c3a280e0b.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6285_jpg.rf.06174572712143fd30e43b8ad28a12a9.jpg,label_normal,FALSE,background,4.71
+video-2_frame_6300_jpg.rf.b9fae1ff8df1de4182cdc6a87581d272.jpg,label_normal,FALSE,background,4.75
+video-2_frame_630_jpg.rf.7c54cc703f740ea6513732eed39d989e.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6315_jpg.rf.cec67e6878f59d4afdb6abbd92947a7b.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6330_jpg.rf.7a31621b96ed690c3c31356e7c9621af.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6345_jpg.rf.ec0966f442481a92351e049c92f60232.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6360_jpg.rf.5b5efb20ee810952b7479dd5a65a7612.jpg,label_normal,FALSE,background,5.01
+video-2_frame_6375_jpg.rf.f14d2a68ada7e067a1bf66a21f80abf4.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6390_jpg.rf.7814d554fba30183863524554194b281.jpg,label_normal,FALSE,background,4.76
+video-2_frame_6405_jpg.rf.8de9553d95a3209ec6fc5e60b4f3553a.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6420_jpg.rf.ca5912f3764d980857ee27c979e72c5a.jpg,label_normal,FALSE,background,4.71
+video-2_frame_6435_jpg.rf.8d4d1d870aacf66ebd1f2ae556adbf64.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6450_jpg.rf.cfac0062f2043d7dae57a8e1750d73a7.jpg,label_normal,FALSE,background,5.5
+video-2_frame_645_jpg.rf.fce7ed3bb39922358e2eca7b9b01ae14.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6465_jpg.rf.15a98350a549d5ba3d83789463f50309.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6480_jpg.rf.d53380143374659270bc56f48f22069b.jpg,label_normal,FALSE,background,4.71
+video-2_frame_660_jpg.rf.4944e77fd99eb9e0edc6bf52cbbb2232.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6630_jpg.rf.b2e5131d697f2de21fa04ea2130af944.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6645_jpg.rf.97f6c00679cf3295b2fc587e0c42a291.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6660_jpg.rf.08524cbc2ec669e2cae86e041da2e1e6.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6675_jpg.rf.5f038b9f87a60edf75d69e301eb51bac.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6690_jpg.rf.113600ade1cd52d15b464e29f7ba0035.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6705_jpg.rf.14f560ba1155f111c86fbda4d2f4b2bc.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6720_jpg.rf.22f3301c1a8b77910fdaf22988599485.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6735_jpg.rf.1930eec13eea1fccfd03160aedd7e9d3.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6750_jpg.rf.7819b61f57eb87f2abd5c77ae26e309d.jpg,label_normal,FALSE,background,4.72
+video-2_frame_675_jpg.rf.6f9515d506eb11b2166acab0ae7060e2.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6765_jpg.rf.e2281f6a28ce9ded2b94757d4d7fa5e6.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6780_jpg.rf.034b6a25223ac08171247beee13e3270.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6795_jpg.rf.3da8bc86f354167f758b7a84cdfa370d.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6810_jpg.rf.69020b934633a56fe5c5bccd35c7fba5.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6825_jpg.rf.b6f4f3fbb97b0080f3392b691cb128bf.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6840_jpg.rf.c0c1b4081d96d31749cd9c25e71037ed.jpg,label_normal,FALSE,background,4.75
+video-2_frame_6855_jpg.rf.6e179a73fa83523b8a8c1dd08dd4a92a.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6870_jpg.rf.1043084502512627a2428ccdfa957c43.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6885_jpg.rf.cc9b2eeb52f820459569f79bad5c5b2c.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6900_jpg.rf.fca7544c1a44451aa2536d95f4b79756.jpg,label_normal,FALSE,background,4.75
+video-2_frame_690_jpg.rf.4158b68d387efd9a8af23a710a624b28.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6915_jpg.rf.32645c19575f30c8d80823b6dc144714.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6930_jpg.rf.c48ab19cfbd29664aa43ac2a92e59fda.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6945_jpg.rf.aad670a0ce9acff46d30aab4b3b81c99.jpg,label_normal,FALSE,background,4.74
+video-2_frame_6960_jpg.rf.9cd6f0d488dde3d0e95a5a8bd08c0481.jpg,label_normal,FALSE,background,4.73
+video-2_frame_6975_jpg.rf.8d116ade45a12676f8ad271b3ab1c471.jpg,label_normal,FALSE,background,4.72
+video-2_frame_6990_jpg.rf.d07bf0002c7576c119123f00b16b4c26.jpg,label_normal,FALSE,background,4.72
+video-2_frame_7005_jpg.rf.10072cec90d1520f2266e59d61f09aba.jpg,label_normal,FALSE,background,4.72
+video-2_frame_7020_jpg.rf.c4c8e02b7c7c03f5415a07665aa85238.jpg,label_normal,FALSE,background,4.72
+video-2_frame_7035_jpg.rf.c75d6e676ee14d66a7ed29e947ff5050.jpg,label_normal,FALSE,background,4.74
+video-2_frame_7050_jpg.rf.c9a9dc3840cfb4d1bfa91144016842b1.jpg,label_normal,FALSE,background,4.76
+video-2_frame_705_jpg.rf.568cad90be1fa64dd8dff9660b154566.jpg,label_normal,FALSE,background,7.92
+video-2_frame_720_jpg.rf.2b3fa86cb0fb6a12557ec8fa06750f2c.jpg,label_normal,FALSE,background,4.72
+video-2_frame_735_jpg.rf.35a11724075a6140a5738fea39ad335c.jpg,label_normal,FALSE,background,4.73
+video-2_frame_750_jpg.rf.0251d25ddde236f042d56656a06dc268.jpg,label_normal,FALSE,background,4.72
+video-2_frame_765_jpg.rf.14446ce028e521d1c16155ca8fe85fa2.jpg,label_normal,FALSE,background,4.72
+video-2_frame_780_jpg.rf.f57b69c091f800f32ba776e68dd274da.jpg,label_normal,FALSE,background,4.75
+video-2_frame_795_jpg.rf.bdcbeb62805bd4197bd7da350bac64c8.jpg,label_normal,FALSE,background,4.73
+video-2_frame_810_jpg.rf.f0e530c4a1bf5e717607d82b8db7b643.jpg,label_normal,FALSE,background,4.74
+video-2_frame_825_jpg.rf.40ac0efe958b3693df164c5be7f20a70.jpg,label_normal,FALSE,background,4.75
+video-2_frame_960_jpg.rf.d3791f33c5493b313836631c1bbdb91e.jpg,label_normal,FALSE,background,4.75
+video-2_frame_975_jpg.rf.51ed4c380163793391199fb6b4675d54.jpg,label_normal,FALSE,background,4.75
+video-2_frame_990_jpg.rf.79ca23d4cd9de77534aabae96cbf6773.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6660_jpg.rf.539093eab5df0da569a754c9fcd83100.jpg,label_normal,FALSE,background,4.72
+video-3_frame_6675_jpg.rf.05453ef9b581080a001dd204ee512ad0.jpg,label_normal,FALSE,background,4.75
+video-3_frame_6690_jpg.rf.63e51b60e7cce3528b11e7618e410d67.jpg,label_normal,FALSE,background,4.74
+video-3_frame_6705_jpg.rf.069272f2f3ad1a9265cba8dfa303e667.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6720_jpg.rf.24b4939a57d94a75d6acd0bdfcdc897b.jpg,label_normal,FALSE,background,4.72
+video-3_frame_6735_jpg.rf.a87ff0473a6a630453308beb556edc36.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6750_jpg.rf.a67d8025fbaa43d66a54425faf9bc047.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6765_jpg.rf.c6f0941cbbfc8536916d1b3234f35097.jpg,label_normal,FALSE,background,4.72
+video-3_frame_6780_jpg.rf.3b3feea4c1a8f3e46be9a77d093ad777.jpg,label_normal,FALSE,background,4.74
+video-3_frame_6795_jpg.rf.86f8d506238ac6e4cefd7508991464c8.jpg,label_normal,FALSE,background,4.76
+video-3_frame_6810_jpg.rf.e35f943fa933f4e7b7214ffbbc3452bb.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6825_jpg.rf.c198d06a0b8e2d5643835e648a919a4d.jpg,label_normal,FALSE,background,4.76
+video-3_frame_6840_jpg.rf.8d6271f73a92b7053de441952d83d8b9.jpg,label_normal,FALSE,background,4.75
+video-3_frame_6855_jpg.rf.4e4ba5864a2f546431081ebb05dc9440.jpg,label_normal,FALSE,background,4.75
+video-3_frame_6870_jpg.rf.6514fdd22aabc4c227b6239f0558dd58.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6885_jpg.rf.ea2bd125f9ab9762d164508731f9232b.jpg,label_normal,FALSE,background,4.75
+video-3_frame_6900_jpg.rf.46033060fd93d3ee7b373e76e4e90bb0.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6915_jpg.rf.e47f19f224e0889524eaf8d128c9b19e.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6930_jpg.rf.ecf585d6a350bb3258e3afee3cc76526.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6945_jpg.rf.92d12b6f76573ac16d0ac8a3d2f00045.jpg,label_normal,FALSE,background,4.71
+video-3_frame_6960_jpg.rf.1df940014e60cdd90dd76afaa458afd5.jpg,label_normal,FALSE,background,4.73
+video-3_frame_6975_jpg.rf.57693b708077fd4cbf00822aa22e3d9f.jpg,label_normal,FALSE,background,4.72
+video-3_frame_6990_jpg.rf.78b3ffeb4d42a102b37c8492dcac1f74.jpg,label_normal,FALSE,background,4.73
+video-3_frame_7005_jpg.rf.c2b99c17b5bc43439ae456373a173680.jpg,label_normal,FALSE,background,4.73
+video-3_frame_7020_jpg.rf.2624669e6911706c3787bfe7864e9c22.jpg,label_normal,FALSE,background,4.75
+video-3_frame_7035_jpg.rf.c75de0a4fec1285307441cdab7f22190.jpg,label_normal,FALSE,background,4.73
+video-3_frame_7050_jpg.rf.46d038d5ab4344bb0a2e00d4f06544df.jpg,label_normal,FALSE,background,4.7
+video-3_frame_7065_jpg.rf.853443ca5342d9da09e9c83f231f021d.jpg,label_normal,FALSE,background,4.75
+video-3_frame_7080_jpg.rf.e0f3f8de8076fcfea79bbfb7e7616829.jpg,label_normal,FALSE,background,4.74
+video-3_frame_7095_jpg.rf.76a2a6ee62f52bb2a29e497d3c94f746.jpg,label_normal,FALSE,background,4.73
+video-3_frame_7110_jpg.rf.a85af8949e273bdb716f58b8d9200848.jpg,label_normal,FALSE,background,4.72
+,,,,15.31

@@ -1,0 +1,15 @@
+**/__pycache__/
+**/.vscode/
+
+**/Frame Extraction/videos/
+
+
+# **.MOV
+**/label_bottle_new-2/
+**/extracted_frames/
+**/predict/
+**/val/
+**/val2/
+**/val3/
+**.mp4
+**.pt

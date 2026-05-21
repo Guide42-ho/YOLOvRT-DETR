@@ -1,0 +1,4 @@
+GT \ Pred,label_damage,label_normal,background
+label_damage,643,0,393
+label_normal,1,322,0
+background,256,3,0
